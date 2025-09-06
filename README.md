@@ -1,11 +1,10 @@
 <h1>Hello There 👋, I'm Dev Rastogi</h1>
 <h3>A passionate 3d web developer | Frontend developer</h3>
-&nbsp;
-<h5>Innovative Frontend Developer and 3D Web Developer with hands-on experience in building modern, interactive, and
+<h4>Innovative Frontend Developer and 3D Web Developer with hands-on experience in building modern, interactive, and
 visually engaging websites. Skilled in React, React Three Fiber (R3F), Three.js, GSAP, and Tailwind CSS, with a strong
 focus on creating immersive 3D experiences, smooth animations, and responsive user interfaces. Passionate about
 blending design and technology to deliver seamless digital experiences with performance and usability in mind. Adept
-at solving complex problems, optimizing user interactions, and bringing creative ideas to life through code.</h5>
+at solving complex problems, optimizing user interactions, and bringing creative ideas to life through code.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devr11" alt="devr11" /></a> </p>
 
