@@ -1,5 +1,5 @@
 <h1>Hello There 👋, I'm Dev Rastogi</h1>
-<h3>A passionate 3d web developer | Frontend developer</h3>
+<h3>A passionate 3d web developer | Full Stack developer</h3>
 <p>Innovative Frontend Developer and 3D Web Developer with hands-on experience in building modern, interactive, and
 visually engaging websites. Skilled in React, React Three Fiber (R3F), Three.js, GSAP, and Tailwind CSS, with a strong
 focus on creating immersive 3D experiences, smooth animations, and responsive user interfaces. Passionate about
