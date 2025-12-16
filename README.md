@@ -4,19 +4,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devr11" alt="devr11" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, WebGL shaders in Three.js**
+- 🌱 I’m currently learning **Next.js, backend scalability, WebGL shaders in Three.js**
 
-- 👯 I’m looking to collaborate on **Open-source 3D animation libraries**
+- 👯 I’m looking to collaborate on **open-source full-stack & 3D animation libraries**
 
-- 🤝 I’m looking for help with **Advanced WebGL & shaders**
+- 🤝 I’m looking for help with **advanced WebGL, shaders & performance optimization**
 
-- 💬 Ask me about **React, GSAP, Three.js, Modern Frontend**
+- 💬 Ask me about **React, Node.js, GSAP, Three.js, modern full-stack development**
 
 - 📫 How to reach me **rastogi.db1@gmail.com**
 
 -  📄 You can check my [LinkedIn](https://www.linkedin.com/in/dev-rastogi-ab7692313/) for more details about work experience.
 
-- ⚡ Fun fact **I mix creativity with code to make websites feel alive 🚀**
+- ⚡ Fun fact **I mix backend logic + 3D visuals to make web apps feel alive 🚀**
 
 
 
